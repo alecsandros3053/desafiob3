@@ -9,5 +9,5 @@ Elaborado os testes de automação abaixo:
 
 Tecnologias utilizadas
 
-Bru-Selenium Bru-Java Bru-Cucumber
+
   
